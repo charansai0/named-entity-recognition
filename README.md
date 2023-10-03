@@ -6,6 +6,9 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organisations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. It adds a wealth of semantic knowledge to your content and helps you to promptly understand the subject of any given text.
+
+
+
 ![dataset](https://github.com/charansai0/named-entity-recognition/assets/94296221/87a15483-b4da-4aa5-8b25-4fa13273de4f)
 
 
